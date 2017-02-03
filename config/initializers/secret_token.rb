@@ -1,0 +1,1 @@
+# MyPortfolio::Application.config.secret_key_base = '13b92cad37251ee79143949d2062efa0292204b624da788df3c3561e7270a41037c6edbe08c148fe5554d83fc16a791cb3761f09ff2e5b8dc2b16e76d8e3b6c0'
